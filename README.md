@@ -21,13 +21,13 @@ IRISのインターオペラビリティ機能を、様々なプログラミン�
 
 ## シンプルな使用例
 構造を理解いただくことを目的としたシンプルな例です。  
-Community Editionで動作しますのでDocker環境(Linux)があれば動作します。  
+IRISはCommunity Editionを使用していますので、Docker環境(Linux)があれば動作します。    
 https://github.com/IRISMeister/pex-demo/blob/master/MEMO-JP.md  
 
 
 ## 高度な使用例
 金融機関のPoCで使用したモデルを基にした例です。  
-Community Editionで動作しますのでDocker環境(Linux)があれば動作します。    
+IRISはCommunity Editionを使用していますので、Docker環境(Linux)があれば動作します。    
 https://github.com/IRISMeister/irisdemo-demo-kafka
 
 ## オンラインラーニングサイト
@@ -51,12 +51,12 @@ https://learning.intersystems.com/course/view.php?id=1152
 
 ## シンプルな使用例
 構造を理解いただくことを目的としたシンプルな例です。  
-Community Editionで動作しますのでDocker環境(Linux)があれば動作します。  
+IRISはCommunity Editionを使用していますので、Docker環境(Linux)があれば動作します。    
 https://github.com/IRISMeister/irisdemo-demo-spark
 
 ## 高度な使用例
 病院への再入院リスクの予測を行うデモです。SparkでIRIS上のデータを使用してPMMLモデルを作成し、IRISのPMML実行環境に反映させます。  
-Community Editionで動作しますのでDocker環境(Linux)があれば動作します。    
+IRISはCommunity Editionを使用していますので、Docker環境(Linux)があれば動作します。    
 https://community.intersystems.com/post/readmission-demo-20-here-and-it-open-source-now
 
 ## オンラインラーニングサイト
