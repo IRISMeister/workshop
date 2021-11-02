@@ -20,13 +20,13 @@ IRISのインターオペラビリティ機能を、様々なプログラミン�
 # PEXによるKafka連携 
 
 ## シンプルな使用例
-構造を理解いただくことを目的としたシンプルな例です。  
+構造を理解いただくことを目的としたシンプルな例です。ビジネスサービスを[C#.NET](https://github.com/IRISMeister/pex-demo/blob/master/dotnet/KafkaConsumer.cs)で、ビジネスオペレーションを[Java](https://github.com/IRISMeister/pex-demo/blob/master/java/src/dc/rmq/KafkaOperation.java)で実装しています。  
 IRISはCommunity Editionを使用していますので、Docker環境(Linux)があれば動作します。    
 https://github.com/IRISMeister/pex-demo/blob/master/MEMO-JP.md  
 
 
 ## 高度な使用例
-金融機関のPoCで使用したモデルを基にした例です。  
+金融機関のPoCで使用したモデルを基にした例です。受信アダプタを[Java](https://github.com/IRISMeister/irisdemo-demo-kafka/blob/master/image-iris-datasource/kafka-pex-adapter/src/main/java/irisdemo/kafka/KeyLessAvroInboundAdapter.java)で実装しています。  
 IRISはCommunity Editionを使用していますので、Docker環境(Linux)があれば動作します。    
 https://github.com/IRISMeister/irisdemo-demo-kafka
 
