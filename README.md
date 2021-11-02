@@ -29,7 +29,7 @@ https://github.com/IRISMeister/pex-demo/blob/master/MEMO-JP.md
 金融機関のPoCで使用したモデルを基にした例です。受信アダプタを[Java](https://github.com/IRISMeister/irisdemo-demo-kafka/blob/master/image-iris-datasource/kafka-pex-adapter/src/main/java/irisdemo/kafka/KeyLessAvroInboundAdapter.java)で実装しています。  
 IRISはCommunity Editionを使用していますので、Docker環境(Linux)があれば動作します。    
 https://github.com/IRISMeister/irisdemo-demo-kafka
-
+> DockerHub上のイメージが古いままなので、実行するには[こちら](https://github.com/IRISMeister/irisdemo-demo-kafka/blob/master/memo-j.txt)の手順でビルドを実行してください。
 ## オンラインラーニングサイト
 下記を使用して、オンライン上の実行環境を作成して学習することが出来ます。  
 https://learning.intersystems.com/course/view.php?id=1668
