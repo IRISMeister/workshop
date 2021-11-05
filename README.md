@@ -67,3 +67,9 @@ https://learning.intersystems.com/course/view.php?id=796
 ## Community記事  
 IRIS, Spark, Zeppelinをコンテナで実行する記事です。  
 https://community.intersystems.com/post/containerized-machine-learning-playground-intersystems-iris-community-edition-spark-and
+
+# c言語からのアクセス
+https://github.com/IRISMeister/iris-c-language.git
+
+# Interoperabilityの例
+https://github.com/IRISMeister/iris-i14y.git
